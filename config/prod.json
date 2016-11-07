@@ -1,0 +1,16 @@
+{
+  "domain_prefix": "follain",
+  "refresh_token": "QvtndON9kcqKpvDQQrReK3Kx0r5scAreHrrGLVMV",
+  "connectionString": "postgres://anthony:0mgsh0es@mgemi.cuazvdlji2yc.us-east-1.rds.amazonaws.com:5432/analytics",
+  "access_token": "3q0bXejJPeCSRBBLtmnxD2:vb8rRiEnpUw1i8xB8",
+  "vend": {
+    "auth_endpoint": "https://follian.vendhq.com/connect",
+    "token_service": "https://follain.vendhq.com/api/1.0/token",
+    "client_id": "MtJdbTVnfkploxwcY5NovtVGLThEzD9I",
+    "client_secret": "X0IGdRuINfMWBWnbC3wMyVb1mwKHyfoR"
+  },
+  "logging": {
+    "console": true,
+    "file": false
+  }
+}
